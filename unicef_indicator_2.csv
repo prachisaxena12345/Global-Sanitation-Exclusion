@@ -1,0 +1,406 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,44.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Afghanistan,AF,AFG,4,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,42.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Afghanistan,AF,AFG,4,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,44.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Albania,AL,ALB,8,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Albania,AL,ALB,8,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.3,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Albania,AL,ALB,8,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.9,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Algeria,DZ,DZA,12,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,55.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Algeria,DZ,DZA,12,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,48.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Algeria,DZ,DZA,12,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,51.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Anguilla,AI,AIA,660,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,30.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Anguilla,AI,AIA,660,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,22.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Anguilla,AI,AIA,660,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,26.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Antigua and Barbuda,AG,ATG,28,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,26.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Antigua and Barbuda,AG,ATG,28,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,23.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Antigua and Barbuda,AG,ATG,28,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,24.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Argentina,AR,ARG,32,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,24.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Argentina,AR,ARG,32,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,24.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Argentina,AR,ARG,32,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,24.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Armenia,AM,ARM,51,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,14.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Armenia,AM,ARM,51,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,19.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Armenia,AM,ARM,51,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,16.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Australia,AU,AUS,36,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,34,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Austria,AT,AUT,40,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,21.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Austria,AT,AUT,40,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Austria,AT,AUT,40,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Azerbaijan,AZ,AZE,31,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,26.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Azerbaijan,AZ,AZE,31,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,25,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Azerbaijan,AZ,AZE,31,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,25.7,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Bahamas,BS,BHS,44,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,22,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bahamas,BS,BHS,44,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,24.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bahamas,BS,BHS,44,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,23.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bahrain,BH,BHR,48,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,22.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bahrain,BH,BHR,48,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,35.6,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bahrain,BH,BHR,48,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,29.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bangladesh,BD,BGD,50,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,17.3,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bangladesh,BD,BGD,50,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,27.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bangladesh,BD,BGD,50,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,23.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Barbados,BB,BRB,52,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,11,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Barbados,BB,BRB,52,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,15.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Barbados,BB,BRB,52,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,13.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Belgium,BE,BEL,56,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.2,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Belgium,BE,BEL,56,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,16.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Belgium,BE,BEL,56,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Belize,BZ,BLZ,84,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,31.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Belize,BZ,BLZ,84,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,30.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Belize,BZ,BLZ,84,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,30.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Benin,BJ,BEN,204,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,51.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Benin,BJ,BEN,204,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,47.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Benin,BJ,BEN,204,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,49,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bhutan,BT,BTN,64,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,28.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bhutan,BT,BTN,64,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,31.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bhutan,BT,BTN,64,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,30.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,28.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,31.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,30.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bosnia and Herzegovina,BA,BIH,70,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,25,Total,,%,Reported,Free,End of fieldwork,15 years old
+Botswana,BW,BWA,72,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2005,51.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Botswana,BW,BWA,72,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2005,52.6,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Botswana,BW,BWA,72,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2005,52.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Brazil,BR,BRA,76,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2019,35.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Brazil,BR,BRA,76,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2019,45.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Brazil,BR,BRA,76,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2019,40.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Virgin Islands, British",VG,VGB,92,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,16.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Virgin Islands, British",VG,VGB,92,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,18.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Virgin Islands, British",VG,VGB,92,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,17.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Brunei,BN,BRN,96,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,21.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Brunei,BN,BRN,96,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,25.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Brunei,BN,BRN,96,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,23.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Bulgaria,BG,BGR,100,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,33,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Bulgaria,BG,BGR,100,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,35.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Bulgaria,BG,BGR,100,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,34,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Cambodia,KH,KHM,116,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,22.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Cambodia,KH,KHM,116,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,22.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Cambodia,KH,KHM,116,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,22.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Canada,CA,CAN,124,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,39.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Canada,CA,CAN,124,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,36.3,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Canada,CA,CAN,124,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,37.9,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Chile,CL,CHL,152,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,13.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Chile,CL,CHL,152,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,15.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Chile,CL,CHL,152,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,15.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Cook Islands,CK,COK,184,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,31.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Cook Islands,CK,COK,184,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,29.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Cook Islands,CK,COK,184,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,30.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Costa Rica,CR,CRI,188,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,19.6,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Costa Rica,CR,CRI,188,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,18.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Costa Rica,CR,CRI,188,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,19,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Croatia,HR,HRV,191,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,21.4,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Croatia,HR,HRV,191,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,22.8,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Croatia,HR,HRV,191,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,22.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Cuba,CU,CUB,192,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2006,13.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Czech Republic,CZ,CZE,203,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Czech Republic,CZ,CZE,203,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,16.5,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Czech Republic,CZ,CZE,203,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.5,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Denmark,DK,DNK,208,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,14.7,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Denmark,DK,DNK,208,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.9,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Denmark,DK,DNK,208,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,13.3,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Djibouti,DJ,DJI,262,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,35.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Djibouti,DJ,DJI,262,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,44.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Djibouti,DJ,DJI,262,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,40.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Dominica,DM,DMA,212,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,26,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Dominica,DM,DMA,212,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,28.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Dominica,DM,DMA,212,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,27.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Dominican Republic,DO,DOM,214,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,22.3,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Dominican Republic,DO,DOM,214,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,26.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Dominican Republic,DO,DOM,214,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,24.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Ecuador,EC,ECU,218,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,44.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Egypt,EG,EGY,818,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,69.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Egypt,EG,EGY,818,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,70.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Egypt,EG,EGY,818,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,70,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+El Salvador,SV,SLV,222,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,23.6,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+El Salvador,SV,SLV,222,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,21.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+El Salvador,SV,SLV,222,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,22.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Estonia,EE,EST,233,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,29.8,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Estonia,EE,EST,233,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,29.7,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Estonia,EE,EST,233,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,29.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Swaziland,SZ,SWZ,748,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,31.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Swaziland,SZ,SWZ,748,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,33.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Swaziland,SZ,SWZ,748,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,32.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Fiji,FJ,FJI,242,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,25.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Fiji,FJ,FJI,242,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,33.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Fiji,FJ,FJI,242,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,29.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Finland,FI,FIN,246,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,24.2,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Finland,FI,FIN,246,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,27.5,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Finland,FI,FIN,246,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,25.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+France,FR,FRA,250,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,15.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+France,FR,FRA,250,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,12.8,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+France,FR,FRA,250,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,14.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Georgia,GE,GEO,268,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,19.8,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Georgia,GE,GEO,268,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.5,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Georgia,GE,GEO,268,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.7,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Germany,DE,DEU,276,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.9,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Germany,DE,DEU,276,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.7,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Germany,DE,DEU,276,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Ghana,GH,GHA,288,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,62,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Greece,GR,GRC,300,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.8,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Greece,GR,GRC,300,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Greece,GR,GRC,300,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,19.6,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Grenada,GD,GRD,308,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,26.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Grenada,GD,GRD,308,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,28.6,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Grenada,GD,GRD,308,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,27.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Guatemala,GT,GTM,320,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,19.6,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Guatemala,GT,GTM,320,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,26,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Guatemala,GT,GTM,320,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,22.8,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Guyana,GY,GUY,328,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,36.6,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Guyana,GY,GUY,328,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,40.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Guyana,GY,GUY,328,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,38.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Honduras,HN,HND,340,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,11.8,Female,,%,Reported,Free,End of fieldwork,13 to 17 years old
+Honduras,HN,HND,340,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,13.1,Male,,%,Reported,Free,End of fieldwork,13 to 17 years old
+Hungary,HU,HUN,348,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,28.2,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Hungary,HU,HUN,348,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,27.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Hungary,HU,HUN,348,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,27.7,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Iceland,IS,ISL,352,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.4,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Iceland,IS,ISL,352,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,12.3,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Iceland,IS,ISL,352,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Indonesia,ID,IDN,360,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,19,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Indonesia,ID,IDN,360,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,23.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Indonesia,ID,IDN,360,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,21.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Iraq,IQ,IRQ,368,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,21.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Iraq,IQ,IRQ,368,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,32.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Iraq,IQ,IRQ,368,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,27.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Ireland,IE,IRL,372,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,32.4,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Ireland,IE,IRL,372,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,32.3,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Ireland,IE,IRL,372,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,32.3,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Israel,IL,ISR,376,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.8,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Israel,IL,ISR,376,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,29.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Israel,IL,ISR,376,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,23.6,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Italy,IT,ITA,380,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.7,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Italy,IT,ITA,380,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Italy,IT,ITA,380,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.5,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Jamaica,JM,JAM,388,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,24.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Jamaica,JM,JAM,388,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,26.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Jamaica,JM,JAM,388,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,25.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Japan,JP,JPN,392,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,18,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Jordan,JO,JOR,400,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,36.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Jordan,JO,JOR,400,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,46.6,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Jordan,JO,JOR,400,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,41.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kazakhstan,KZ,KAZ,398,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,16.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Kazakhstan,KZ,KAZ,398,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,15.3,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Kazakhstan,KZ,KAZ,398,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,15.7,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Kenya,KE,KEN,404,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2003,57.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kenya,KE,KEN,404,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2003,56.6,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kenya,KE,KEN,404,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2003,57.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kiribati,KI,KIR,296,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,32.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kiribati,KI,KIR,296,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,42.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kiribati,KI,KIR,296,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,36.8,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kuwait,KW,KWT,414,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,27.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kuwait,KW,KWT,414,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,35.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Kuwait,KW,KWT,414,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,31.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Lao People's Democratic Republic,LA,LAO,418,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,11.3,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Lao People's Democratic Republic,LA,LAO,418,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,15.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Lao People's Democratic Republic,LA,LAO,418,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,13.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Latvia,LV,LVA,428,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,49.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Latvia,LV,LVA,428,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,44.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Latvia,LV,LVA,428,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,46.6,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Lebanon,LB,LBN,422,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,11.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Lebanon,LB,LBN,422,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,23.9,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Lebanon,LB,LBN,422,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,17.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Liberia,LR,LBR,430,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,50.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Liberia,LR,LBR,430,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,43.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Liberia,LR,LBR,430,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,47.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Libyan Arab Jamahiriya,LY,LBY,434,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,30.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Libyan Arab Jamahiriya,LY,LBY,434,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,40,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Libyan Arab Jamahiriya,LY,LBY,434,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,35.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Lithuania,LT,LTU,440,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,51.4,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Lithuania,LT,LTU,440,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,50.9,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Lithuania,LT,LTU,440,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,51.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Luxembourg,LU,LUX,442,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,23.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Luxembourg,LU,LUX,442,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.8,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Luxembourg,LU,LUX,442,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,21.9,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Malawi,MW,MWI,454,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,46.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Malawi,MW,MWI,454,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,42.9,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Malawi,MW,MWI,454,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,44.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Malaysia,MY,MYS,458,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,13.7,Female,,%,Reported,Free,End of fieldwork,13 to 17 years old
+Malaysia,MY,MYS,458,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,18.7,Male,,%,Reported,Free,End of fieldwork,13 to 17 years old
+Malaysia,MY,MYS,458,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,16.2,Total,,%,Reported,Free,End of fieldwork,13 to 17 years old
+Maldives,MV,MDV,462,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,29.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Maldives,MV,MDV,462,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,30.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Maldives,MV,MDV,462,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,30.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Malta,MT,MLT,470,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,21.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Malta,MT,MLT,470,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,28.5,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Malta,MT,MLT,470,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,25,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Mauritania,MR,MRT,478,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,46.3,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mauritania,MR,MRT,478,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,48,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mauritania,MR,MRT,478,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,47.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mauritius,MU,MUS,480,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,22,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mauritius,MU,MUS,480,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,29,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mauritius,MU,MUS,480,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,25.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mexico,MX,MEX,484,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,33,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mongolia,MN,MNG,496,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,25,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mongolia,MN,MNG,496,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,35.9,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mongolia,MN,MNG,496,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,30.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Montserrat,MS,MSR,500,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,24.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Montserrat,MS,MSR,500,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,31.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Montserrat,MS,MSR,500,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,28.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Morocco,MA,MAR,504,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,31.6,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Morocco,MA,MAR,504,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,44,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Morocco,MA,MAR,504,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,38.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mozambique,MZ,MOZ,508,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,46.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mozambique,MZ,MOZ,508,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,45,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Mozambique,MZ,MOZ,508,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,45,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Myanmar,MM,MMR,104,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,48.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Myanmar,MM,MMR,104,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,51.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Myanmar,MM,MMR,104,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,50.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Namibia,,NAM,516,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,45.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Namibia,,NAM,516,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,47.9,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Namibia,,NAM,516,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,46.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nauru,NR,NRU,520,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,37.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nauru,NR,NRU,520,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,39.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nauru,NR,NRU,520,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,38.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nepal,NP,NPL,524,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,45.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nepal,NP,NPL,524,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,56.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nepal,NP,NPL,524,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,50.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Netherlands,NL,NLD,528,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Netherlands,NL,NLD,528,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,12.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Netherlands,NL,NLD,528,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,11.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+New Zealand,NZ,NZL,554,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,35,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Nicaragua,NI,NIC,558,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,43.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Niue,NU,NIU,570,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,38.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Niue,NU,NIU,570,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,35.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.7,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.5,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Norway,NO,NOR,578,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,14,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Norway,NO,NOR,578,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,15.7,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Norway,NO,NOR,578,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,14.9,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Oman,OM,OMN,512,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,39.3,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Oman,OM,OMN,512,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,45.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Oman,OM,OMN,512,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,42.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Pakistan,PK,PAK,586,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,35.3,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Pakistan,PK,PAK,586,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,45.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Pakistan,PK,PAK,586,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2009,41.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Panama,PA,PAN,591,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,43.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Paraguay,PY,PRY,600,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,14.6,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Paraguay,PY,PRY,600,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,19.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Paraguay,PY,PRY,600,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,16.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Peru,PE,PER,604,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,48.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Peru,PE,PER,604,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,46.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Peru,PE,PER,604,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,47.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Philippines,PH,PHL,608,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2019,41.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Philippines,PH,PHL,608,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2019,41.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Philippines,PH,PHL,608,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2019,41.8,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Poland,PL,POL,616,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Poland,PL,POL,616,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,23.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Poland,PL,POL,616,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,20.8,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Portugal,PT,PRT,620,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.7,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Portugal,PT,PRT,620,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.2,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Portugal,PT,PRT,620,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Qatar,QA,QAT,634,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,34.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Qatar,QA,QAT,634,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,48.8,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Qatar,QA,QAT,634,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,42.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+South Korea,KR,KOR,410,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,15,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+"Moldova, Republic of",MD,MDA,498,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,43.7,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Moldova, Republic of",MD,MDA,498,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,43.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Moldova, Republic of",MD,MDA,498,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,43.6,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Romania,RO,ROU,642,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,30.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Romania,RO,ROU,642,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,30.9,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Romania,RO,ROU,642,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,30.5,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Russian Federation,RU,RUS,643,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,35.3,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Russian Federation,RU,RUS,643,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,31.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Russian Federation,RU,RUS,643,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,33.3,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Saint Kitts and Nevis,KN,KNA,659,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,20.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Saint Kitts and Nevis,KN,KNA,659,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,24.9,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Saint Kitts and Nevis,KN,KNA,659,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,22.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Saint Lucia,LC,LCA,662,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,29.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Saint Lucia,LC,LCA,662,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,24,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Saint Lucia,LC,LCA,662,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,26.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+St. Vincent and the Grenadines,VC,VCT,670,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,29.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+St. Vincent and the Grenadines,VC,VCT,670,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,30.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+St. Vincent and the Grenadines,VC,VCT,670,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2007,29.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Samoa,WS,WSM,882,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,33.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Samoa,WS,WSM,882,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,43,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Samoa,WS,WSM,882,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,38.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Saudi Arabia,SA,SAU,682,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,27,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Serbia,RS,SRB,688,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.6,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Serbia,RS,SRB,688,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.5,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Serbia,RS,SRB,688,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Seychelles,SC,SYC,690,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,49.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Seychelles,SC,SYC,690,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,44.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Seychelles,SC,SYC,690,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,47.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Sierra Leone,SL,SLE,694,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,57.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Sierra Leone,SL,SLE,694,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,59.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Sierra Leone,SL,SLE,694,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,58.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Singapore,SG,SGP,702,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,36,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Slovakia,SK,SVK,703,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,19.2,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Slovakia,SK,SVK,703,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,19.6,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Slovakia,SK,SVK,703,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,19.4,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Slovenia,SI,SVN,705,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,23,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Slovenia,SI,SVN,705,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,26.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Slovenia,SI,SVN,705,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,24.7,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Solomon Islands,SB,SLB,90,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,67.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Solomon Islands,SB,SLB,90,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,64.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Solomon Islands,SB,SLB,90,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2011,66.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+South Africa,ZA,ZAF,710,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,47,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Spain,ES,ESP,724,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,9.3,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Spain,ES,ESP,724,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,10,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Spain,ES,ESP,724,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,9.6,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Sri Lanka,LK,LKA,144,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,28.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Sri Lanka,LK,LKA,144,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,50.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Sri Lanka,LK,LKA,144,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,39.4,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Suriname,SR,SUR,740,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,24.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Suriname,SR,SUR,740,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,25.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Suriname,SR,SUR,740,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,25.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Sweden,SE,SWE,752,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.5,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Sweden,SE,SWE,752,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,17.7,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Sweden,SE,SWE,752,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Switzerland,CH,CHE,756,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,18.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Switzerland,CH,CHE,756,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,14.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Switzerland,CH,CHE,756,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,16.1,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Tajikistan,TJ,TJK,762,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2006,7.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tajikistan,TJ,TJK,762,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2006,7.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tajikistan,TJ,TJK,762,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2006,7.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Thailand,TH,THA,764,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,27.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Thailand,TH,THA,764,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,38.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Thailand,TH,THA,764,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,33.2,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Timor-Leste,TL,TLS,626,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,24.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Timor-Leste,TL,TLS,626,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,38.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Timor-Leste,TL,TLS,626,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2015,31.3,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tokelau,TK,TKL,772,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,38.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tokelau,TK,TKL,772,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,38.6,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tokelau,TK,TKL,772,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,40.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tonga,TO,TON,776,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,30.5,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tonga,TO,TON,776,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,45.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tonga,TO,TON,776,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,38.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Trinidad and Tobago,TT,TTO,780,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,17.9,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Trinidad and Tobago,TT,TTO,780,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,13.2,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Trinidad and Tobago,TT,TTO,780,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2017,15.7,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tunisia,TN,TUN,788,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,24.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tunisia,TN,TUN,788,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,37.4,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tunisia,TN,TUN,788,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2008,30.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tuvalu,TV,TUV,798,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,15,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tuvalu,TV,TUV,798,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,40.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Tuvalu,TV,TUV,798,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,26.9,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Turkey,TR,TUR,792,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,33,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Turkey,TR,TUR,792,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,39.1,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Turkey,TR,TUR,792,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,36,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Uganda,UG,UGA,800,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2003,41.1,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Uganda,UG,UGA,800,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2003,50,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Uganda,UG,UGA,800,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2003,45.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Ukraine,UA,UKR,804,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,40.7,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Ukraine,UA,UKR,804,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,39.6,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Ukraine,UA,UKR,804,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,40.2,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+United Arab Emirates,AE,ARE,784,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,21.8,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+United Arab Emirates,AE,ARE,784,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,32.5,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+United Arab Emirates,AE,ARE,784,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,27.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+United Kingdom,GB,GBR,826,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,37,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+United Kingdom,GB,GBR,826,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,37.9,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+United Kingdom,GB,GBR,826,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2018,37.4,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,28.1,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,25,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,26.9,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+United States,US,USA,840,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,25.4,Female,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+United States,US,USA,840,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,26.4,Male,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+United States,US,USA,840,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2010,26,Total,,%,Reanalysed,Free,End of fieldwork,13 to 15 years
+Uruguay,UY,URY,858,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,20.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Uruguay,UY,URY,858,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,17.7,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Uruguay,UY,URY,858,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2012,19.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Vanuatu,VU,VUT,548,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,45.7,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Vanuatu,VU,VUT,548,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,60,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Vanuatu,VU,VUT,548,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2016,52.6,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Vietnam,VN,VNM,704,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,26.2,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Vietnam,VN,VNM,704,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,26.1,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Vietnam,VN,VNM,704,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2013,26.1,Total,,%,Reported,Free,End of fieldwork,13 to 15 years
+Yemen,YE,YEM,887,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,33.4,Female,,%,Reported,Free,End of fieldwork,13 to 15 years
+Yemen,YE,YEM,887,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,47.3,Male,,%,Reported,Free,End of fieldwork,13 to 15 years
+Yemen,YE,YEM,887,Percentage of students (aged 13-15 years) who reported being bullied on 1 or more days in the past 30 days,2014,41.5,Total,,%,Reported,Free,End of fieldwork,13 to 15 years

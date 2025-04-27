@@ -1,0 +1,281 @@
+---
+title: "Global Sanitation Exclusion"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-location: left
+    toc-depth: 2
+    code-fold: true
+    theme: flatly
+    html-metadata:
+      viewport: width=device-width, initial-scale=1
+execute:
+  python:
+    engine: .venv/bin/python
+    echo: false
+    warning: false
+    message: false
+    error: true
+---
+
+<div style="text-align: center:">
+*BAA1030 Data Analytics & Storytelling*
+**Student**: Prachi Saxena (A00011516)
+**Programme**: MSc in Management (Strategy)
+</div>
+
+# About This Report
+
+Access to safe sanitation is a basic human right and a key driver of public health, dignity, and development. Tey, according to UNICEF data, billions of people worldwide remain excluded from adequate sanitation services. This exclusion fuels health crises, educational gaps, and social inequalities, disproportionately affecting women, children, and marginalized communities. 
+This report uses UNICEF's sanitation data to explore the global patterns of sanitation access. Through a combination of narrative storytelling and data visualizations - including a world map, bar chart, scatterplot, and time-series analysis - the report highlights the urgent need for investment, policy change, and community-driven action. By raising awareness and promoting data-driven solutions, UNICEF aims to accelerate progress towards universal sanitation access, a core component of Sustainable Development Goal 6 (Clean Water and Sanitation for All).
+
+# Global Sanitation Exclusion: A Hidden Crisis
+
+Access to sanitation is a *basic human right. However, millions of people worldwide still live without proper sanitation services. Sanitation is often taken for granted, yet for billions of people worldwide, the absence of basic toilets, clean water, and waste management services is a daily reality. The lack of safe sanitation is more than a health risk — it is a barrier to education, a driver of gender inequality, and a persistent cause of poverty. This report sheds light on **global disparities* in sanitation access, aiming to raise awareness and drive action.
+Using data from UNICEF's sanitation indicators, this report aims to raise awareness about the global sanitation crisis. It combines clear visualizations with compelling insights to tell the story of how sanitation exclusion affects different regions, populations, and outcomes. The report also highlights trends over time and identifies areas where progress has been made — and where urgent action is still required.
+
+## Why Sanitation Matters
+
+- Proper sanitation *prevents disease* and promotes dignity.
+- Lack of sanitation contributes to *poverty cycles*.
+- It disproportionately affects *women, children, and marginalized communities*.
+- Sanitation directly contributes to achieving SDG 6 (Clean Water and Sanitation)    and supports progress across other SDs related to health, education, gender equality and economic growth.
+- Sanitation infrastructure strengthens communities' ability to respond to climate change, urbanization pressures, and humanitarian emergencies.
+
+Let's explore the data to understand the global sanitation situation.
+
+---
+
+```{python}
+import pandas as pd
+from plotnine import *
+import geopandas as gpd
+import geodatasets
+import matplotlib.pyplot as plt
+
+# Load data (update if your filenames are different)
+df1 = pd.read_csv("unicef_indicator_1.csv")
+df2 = pd.read_csv("unicef_indicator_2.csv")
+metadata = pd.read_csv("unicef_metadata.csv")
+```
+
+# 1.  Global Sanitation Exclusion: World Overview
+*This world map visualizes the percentage of the population that lacks access to basic sanitation services across different countries.*
+*This map highlights the global disparities and the urgent need for improved sanitation infrastructure.*
+
+```{python}
+world = gpd.read_file('ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp')
+map_data = world.merge(df1, left_on='SOV_A3', right_on='alpha_3_code')
+
+(ggplot(map_data)
+ + geom_map(aes(map_id='SOV_A3', fill='obs_value'))
+  + scale_fill_gradient(low='white', high='green')
+ + theme_void()
+ + labs(title='Global Sanitation Exclusion: World Overview', fill='Exclusion')
+)
+```
+
+# 2. Top 10 Countries with Highest Sanitation Exclusion in 2022
+*This bar chart presents the ten countries with the highest percentage of their populations lacking access to basic sanitation services.*
+*It highlights the regions where sanitation challenges are most critical and where urgent interventions are needed.*
+
+```{python}
+top10 = (
+    df1[df1.time_period == 2022]
+    .drop_duplicates('country')
+    .sort_values('obs_value', ascending=False)
+    .head(10)
+)
+
+top10['country'] = pd.Categorical(
+    top10['country'],
+    categories=top10['country'],  # preserves current order
+    ordered=True
+)
+
+(ggplot(top10, aes(x='country', y='obs_value'))
+ + geom_col(fill='green')
+ + coord_flip()
+ + theme_minimal()
+ + labs(
+     title='Top 10 Countries with Highest Sanitation Exclusion (2022)',
+     x='Country',
+     y='Access (%)'
+   )
+)
+```
+
+# 3. Sanitation Exclusion and Life Expectancy 
+#   a. In 2000
+    *This scatterplot explores the relationship between the percentage of the population excluded from basic sanitation services and Life Expectancy in 2000.*
+```{python}
+from plotnine import ggplot, aes, geom_point, geom_smooth, theme_minimal, labs
+
+sanit2000 = (
+    df1[df1['time_period'] == 2000]
+    .loc[:, ['country', 'alpha_3_code', 'obs_value']]
+    .rename(columns={'obs_value': 'SanitationExclusion'})
+)
+
+life2000 = (
+    metadata[metadata['year'] == 2000]
+    .loc[:, ['country', 'alpha_3_code', 'Life expectancy at birth, total (years)']]
+    .rename(columns={'Life expectancy at birth, total (years)': 'LifeExpectancy'})
+)
+
+df_scatter = sanit2000.merge(life2000, on='alpha_3_code')
+
+(
+  ggplot(df_scatter, aes(x='SanitationExclusion', y='LifeExpectancy'))
+  + geom_point(color='green')
+  + geom_smooth(method='lm', se=False)
+  + theme_minimal()
+  + labs(
+      title='Sanitation Exclusion vs Life Expectancy (2000)',
+      x='Sanitation Exclusion (%)',
+      y='Life Expectancy at Birth (years)',
+      caption='Data: UNICEF sanitation & life expectancy indicators'
+    )
+)
+
+```
+
+#   b. In 2022
+    *This scatterplot explores the relationship between the percentage of the population excluded from basic sanitation services and Life Expectancy in 2022.*
+
+```{python}
+from plotnine import ggplot, aes, geom_point, geom_smooth, theme_minimal, labs
+
+sanit2022 = (
+    df1[df1['time_period'] == 2022]
+    .loc[:, ['country', 'alpha_3_code', 'obs_value']]
+    .rename(columns={'obs_value': 'SanitationExclusion'})
+)
+
+life2022 = (
+    metadata[metadata['year'] == 2022]
+    .loc[:, ['country', 'alpha_3_code', 'Life expectancy at birth, total (years)']]
+    .rename(columns={'Life expectancy at birth, total (years)': 'LifeExpectancy'})
+)
+
+df_scatter = sanit2022.merge(life2022, on='alpha_3_code')
+
+(
+  ggplot(df_scatter, aes(x='SanitationExclusion', y='LifeExpectancy'))
+  + geom_point(color='green')
+  + geom_smooth(method='lm', se=False)
+  + theme_minimal()
+  + labs(
+      title='Sanitation Exclusion vs Life Expectancy (2022)',
+      x='Sanitation Exclusion (%)',
+      y='Life Expectancy at Birth (years)',
+      caption='Data: UNICEF sanitation & life expectancy indicators'
+    )
+)
+```
+
+# 4. Sanitation Exclusion and GDP Per Capita 
+#   a. In 2000
+    *This scatterplot analyzes the connection between sanitation exclusion and GDP per capita across countries in 2000.*
+
+```{python}
+from plotnine import ggplot, aes, geom_point, geom_smooth, theme_minimal, labs
+
+sanit2000 = (
+    df1[df1['time_period'] == 2000]
+    .loc[:, ['country', 'alpha_3_code', 'obs_value']]
+    .rename(columns={'obs_value': 'SanitationExclusion'})
+)
+
+gdp2000 = (
+    metadata[metadata['year'] == 2000]
+    .loc[:, ['country', 'alpha_3_code', 'GDP per capita (constant 2015 US$)']]
+    .rename(columns={'GDP per capita (constant 2015 US$)': 'GDPPerCapita'})
+)
+
+df_scatter = sanit2000.merge(gdp2000, on='alpha_3_code')
+
+(
+    ggplot(df_scatter, aes(x='SanitationExclusion', y='GDPPerCapita'))
+    + geom_point(color='aqua')  # Color points aqua
+    + geom_smooth(method='lm', se=False)  # Linear model line without confidence interval
+    + theme_minimal()
+    + labs(
+        title='Sanitation Exclusion vs GDP Per Capita (2000)',
+        x='Sanitation Exclusion (%)',
+        y='GDP Per Capita (constant 2015 US$)',
+        caption='Data: UNICEF sanitation & World Bank GDP indicators'
+    )
+)
+```
+
+#   b. In 2022
+*This scatterplot analyzes the connection between sanitation exclusion and GDP per capita across countries in 2022.*
+
+```{python}
+from plotnine import ggplot, aes, geom_point, geom_smooth, theme_minimal, labs
+
+sanit2022 = (
+    df1[df1['time_period'] == 2022]
+    .loc[:, ['country', 'alpha_3_code', 'obs_value']]
+    .rename(columns={'obs_value': 'SanitationExclusion'})
+)
+
+gdp2022 = (
+    metadata[metadata['year'] == 2022]
+    .loc[:, ['country', 'alpha_3_code', 'GDP per capita (constant 2015 US$)']]
+    .rename(columns={'GDP per capita (constant 2015 US$)': 'GDPPerCapita'})
+)
+
+df_scatter = sanit2022.merge(gdp2022, on='alpha_3_code')
+
+(
+    ggplot(df_scatter, aes(x='SanitationExclusion', y='GDPPerCapita'))
+    + geom_point(color='aqua')  # Color points aqua
+    + geom_smooth(method='lm', se=False)  # Linear model line without confidence interval
+    + theme_minimal()
+    + labs(
+        title='Sanitation Exclusion vs GDP Per Capita (2022)',
+        x='Sanitation Exclusion (%)',
+        y='GDP Per Capita (constant 2015 US$)',
+        caption='Data: UNICEF sanitation & World Bank GDP indicators'
+    )
+)
+```
+
+# 6. Trends in Sanitation Exclusion Over Time in Ghana
+*This time series focuses on [Ghana], showing how access to basic sanitation services has evolved year by year.*
+
+```{python}
+from plotnine import ggplot, aes, geom_line, theme_minimal, labs
+
+Ghana = df1[df1['country'] == 'Ghana']
+
+
+(
+    ggplot(Ghana, aes(x='time_period', y='obs_value'))
+    + geom_line(color='blue')  # Line color blue
+    + theme_minimal()
+    + labs(
+        title='Ghana: Sanitation Exclusion Over Time',
+        x="Year",
+        y="Sanitation Exclusion (%)"
+    )
+)
+```
+
+# Key Takeaways
+
+ * a. Significant portion of the global population in low-income and middle-income countries lack access to basic and safely managed sanitation services.*
+ * b. The widest sanitation gap is between Sub-Saharan Africa and parts of South Asia, this shows that there is a need to focus on regional strategies and investments.*
+ * c. Higher-income and urbanized countries report better sanitation access, while rural or poor communities are left behind.*
+ * d. Although some global improvements are visible in the time-series data, progress remains too slow to meet the 2030 SDG 6 target without accelerated action. 
+ * e. Children, women and marginalized groups face more challenges due to poor sanitation, affecting their health, safety, and opportunities for advancement.*
+ * f. Countries which have implemented targeted programs - including community-led initiatives and market-based sanitation approaches - show better outcomes over time.* 
+
+# References
+  1. UNICEF Indicator 
+  2. UNICEF Metadata
+  3. UNICEF and WHO (2023) Global Progress Report on SDG 6(Water and Sanitation)
+  
